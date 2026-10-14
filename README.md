@@ -90,7 +90,6 @@ Tested using:
 
 ## 👩‍💻 Author
 **[Neha kumari]**  
-[https://github.com/Nehakp8842]  
-[https://www.linkedin.com/in/neha-kumari-ab412825b/]
+https://github.com/Nehakumari1023
 
 ---
